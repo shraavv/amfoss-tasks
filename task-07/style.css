@@ -1,0 +1,42 @@
+.main{
+    background-image: url('weather.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.box{
+    width: 300px;
+    height: 120px;
+    background-color: rgb(158, 187, 228);
+    text-align: center;
+}
+
+.title{
+    font-size:20px;
+    top:0%;
+}
+
+#weather_des{
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+}
+
+#btn{
+    text-align: center;
+    width: 15%;
+    top: 35%;
+    margin-top: 5px; 
+    position: absolute;
+    size:50px;
+    padding: 10px;
+}
+
+#btn input{
+    background: transparent;
+    flex: 1;
+    border: 10;
+    outline: black;
+    padding: 2px 5px;
+    font-size: 20px;
+
+}

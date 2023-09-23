@@ -1,0 +1,14 @@
+{
+    "name": "Weather Report",
+    "version": "1.0.0",
+    "description": "weather report of your city",
+    "manifest_version": 3,
+    "permissions":[
+        "geolocation"
+    ],
+    "author":"shravya k suresh",
+    "action":{
+        "default_popup":"index.html",
+        "default_title":"Weather Report"
+}
+}
