@@ -27,22 +27,22 @@ I found the last few tasks difficult, they were really time consuming. Apart fro
 | Tasks List    |          Descripition        |      Status         |
 | ------------- | ---------------------------- | ------------------- |
 | Introspection| Introspection | Completed |
-| TASK-00 | Installing Ubuntu | Completed |
-| TASK-01 | Terminal Wizard | Completed  |
-| TASK-02 | Lessgo Hugo | Completed |
-| TASK-03 | Hello,World! | Completed |
-| TASK-04 | Competitive Programming | Partially completed |
-| TASK-05 | Hypertext Mockup Langugae | Completed |
-| TASK-06 | Cricket Vault | Completed |
-| TASK-07 | AK-47°C | Completed |
-| TASK-08 | Poke-Search | Partially completed |
-| TASK-09 | GeoQuest | Unattempted |
-| TASK-10 | RuskOS | Unattempted |
-| TASK-11 | TinkerCAD | Unattempted |
-| TASK-12 | Godot | Unattempted |
-| TASK-13 | Vim | Unattempted |
-| TASK-14 | Bandit | Unattempted |
-| TASK-15 | Project Euler | Partially completed |
+| [TASK-00](https://github.com/shraavv/amfoss-tasks/tree/master/task-00)| Installing Ubuntu | Completed |
+| [TASK-01](https://github.com/shraavv/amfoss-tasks/tree/master/task-01) | Terminal Wizard | Completed  |
+| [TASK-02](https://github.com/shraavv/amfoss-tasks/tree/master/task-02) | Lessgo Hugo | Completed |
+| [TASK-03](https://github.com/shraavv/amfoss-tasks/tree/master/task-03) | Hello,World! | Completed |
+| [TASK-04](https://github.com/shraavv/amfoss-tasks/tree/master/task-04) | Competitive Programming | Partially completed |
+| [TASK-05](https://github.com/shraavv/amfoss-tasks/tree/master/task-05) | Hypertext Mockup Langugae | Completed |
+| [TASK-06](https://github.com/shraavv/amfoss-tasks/tree/master/task-06) | Cricket Vault | Completed |
+| [TASK-07]() | AK-47°C | Completed |
+| [TASK-08]() | Poke-Search | Partially completed |
+| [TASK-09]() | GeoQuest | Unattempted |
+| [TASK-10]() | RuskOS | Unattempted |
+| [TASK-11]() | TinkerCAD | Unattempted |
+| [TASK-12]() | Godot | Unattempted |
+| [TASK-13]() | Vim | Unattempted |
+| [TASK-14]() | Bandit | Unattempted |
+| [TASK-15]() | Project Euler | Partially completed |
 
 
 
