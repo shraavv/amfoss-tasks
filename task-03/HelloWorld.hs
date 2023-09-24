@@ -12,9 +12,8 @@ primesUpToN n = filter isPrime [2..n]
 
 main :: IO ()
 main = do
-  putStrLn "Enter a positive integer (n): "
   userInput <- getLine
   let n = read userInput :: Integer
   if n >= 2
-    then putStrLn $ "Prime numbers up to " ++ show n ++ ": " ++ show (primesUpToN n)
+    then putStrLn $ show (primesUpToN n)
     else putStrLn "Please enter a positive integer greater than or equal to 2."
