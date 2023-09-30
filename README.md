@@ -36,7 +36,7 @@ I found the last few tasks difficult, they were really time consuming. Apart fro
 | [TASK-06](https://github.com/shraavv/amfoss-tasks/tree/master/task-06) | Cricket Vault | Completed |
 | [TASK-07]() | AK-47°C | Completed |
 | [TASK-08]() | Poke-Search | Partially completed |
-| [TASK-09]() | GeoQuest | Partially attempted |
+| [TASK-09]() | GeoQuest | Partially completed |
 | [TASK-10]() | RuskOS | Unattempted |
 | [TASK-11]() | TinkerCAD | Unattempted |
 | [TASK-12]() | Godot | Unattempted |
