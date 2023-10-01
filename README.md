@@ -4,7 +4,7 @@
 
 Hello all!
 
-I am Shravya K Suresh,currently a first year student of CSE batch. Learning new programming languages and and solving problems has always seemed really interesting and fun for me. I have to admit it is frustrating at times but i believe that is what makes the process even more fun!
+I am Shravya K Suresh,currently a first year student of CSE batch. Learning new programming languages and and solving problems has always seemed really interesting and fun for me. I have to admit it is frustrating at times but i believe that is what makes the process even more fun! I was born in Hyderabad, did my schooling until 9th grade there and then I shifted to Trivandrum. I currently stay in Trivandrum. I have an older brother, who was a part of the bi0s team. He introduced me to FOSS. It was from then, my interest grew.
 
 # INTROSPECTION
 
@@ -14,11 +14,11 @@ I was introduced to programming in 11th grade, I was a computer science student.
 
 ## WHAT'S YOUR PLAN FOR THE NEXT SIX MONTHS?
 
-If given the opportunity, I would imporve my coding skills. I would also try my level best to improve myself in competitive programming and API related areas as I found it difficult while doing the tasks. I would also like to explore all the different areas and find my interests.
+If given the opportunity, I would imporve my coding skills. I would also try my level best to improve myself in competitive programming and API related areas as I found it difficult while doing the tasks. I also found the PokeSearch task a bit challenging, so I will definitely work on it. I would also like to explore all the different areas and find my interests.
 
 ## HOW WOULD YOU CONTRIBUTE BACK TO THE CLUB?
 
-I will put in my maximum efforts and be as helpul as I can. I am also ready to go out of my comfort zone, take part in a lot of competitions and bring back good results to the club.
+I will put in my maximum efforts and be as helpul as I can. I am also ready to go out of my comfort zone, take part in a lot of competitions and bring back good results to the club. I would try my level best to be active in all aspects, engage myself in different activities and guide my juniors(if given the chance) in the future to thrive more. I would also take part in different activities conducted.
 
 ## DO YOU HAVE ANY FEEDBACK ON THE SELECTION PROCESS?
 
